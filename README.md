@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## Experience in OOP:
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+
+## Follow me on Twitter:
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" width="100">](https://twitter.com/TaswarKarim1)
-[<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
+
+
 
 
 
@@ -32,6 +35,8 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=taswar98&theme=onestar&no-frame=true&column=3&row=2)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=taswar98&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+
 
 
 [<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)

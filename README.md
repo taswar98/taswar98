@@ -19,15 +19,14 @@ Here are some ideas to get you started:
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
 
-## Follow me on Twitter:
+#### Follow me on Twitter:
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" width="100">](https://twitter.com/TaswarKarim1)
 
-
-
-
-
+#### Reach out to me:
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:taswar.karim97@gmail.com)
 
+## ---- My Github Stats ----
+#### Working on it :)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taswar98&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taswar98&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)

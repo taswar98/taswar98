@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, Welcome to my Github profile.👋
 
+### 4th Year Hons. Comp Sci
+#### Lassonde School of Engineering
 <!--
 **taswar98/taswar98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ## Hi there, Welcome to my Github Page! 👋
-#### Lassonde School of Engineering, York University | Toronto 
+##### Lassonde School of Engineering, York University | Toronto 
 <!--
 **taswar98/taswar98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" width="100">](https://twitter.com/TaswarKarim1)
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="100">](mailto:taswar.karim97@gmail.com)
 
-## ---- My Github Stats ----
+## My Github Stats
 #### Working on it :)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taswar98&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)

@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### Favourite Languages:
+#### Favourite Languages:
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
 
-##### Follow me on Twitter or Reach out to me via e-Mail:
+#### Follow me on Twitter or Reach out to me via e-Mail:
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" width="100">](https://twitter.com/TaswarKarim1)
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="100">](mailto:taswar.karim97@gmail.com)
 
